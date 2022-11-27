@@ -1,8 +1,8 @@
 enum CadinalDirections {
-    North = 1,
-    East,
-    South,
-    West
+    North = "North",
+    East = "East",
+    South = "South",
+    West = "West"
 }
 let currentDirection = CadinalDirections.East;
 
